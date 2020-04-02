@@ -263,3 +263,26 @@ button:hover {
 	text-align: center;
 	padding-top: 100px;
 }
+
+
+ .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.6;
+    color: #CBCBCB;
+}
+
+.fa-facebook {
+  color: #CBCBCB;
+}
+
+.fa-instagram {
+  color: #CBCBCB;
+}
